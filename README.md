@@ -11,5 +11,9 @@ AirBNB Bangkok Headquarters wants to know **accommodations with the most demand*
 
 Other than the scarcity of the listings `availability` (booked days), the popularity of a listing property could also be defined by the `reviews`. Generally, popular items tend to have more and newer reviews. Hence we will see if the availability of the accommodations correlates with their reviews and see if **the listings booking demand associated with those review parameters**. 
 
+## **Links**
+* [Presentation Deck](https://docs.google.com/presentation/d/1_ejWF9NuCmajh9ifhjU6Nm7LF8gcisCj43PHdojDFWM/edit?usp=sharing)
+
+***
 - Acknowledgement: This project is initially created for the Capstone Project of Module 2 on Purwadhika Digital School Data Science Bootcamp purposes. 
 - Created by Qonita Shobrina
